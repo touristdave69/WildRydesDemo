@@ -7,6 +7,9 @@ https://github.com/touristdave69/WildRydesDemo/assets/145601015/e553ef57-a9c1-47
 CodeCommit, Amplify, Cognito, Lambda, IAM, API Gateway and DynamoDB AND ArcGIS for map funtionality 
 
 # ( Project code and files are in a Public S3 Bucket)
+
+aws s3 cp s3://wildrydes-[your_region_name, like us-west-2]/WebApplication/1_StaticWebHosting/website ./ --recursive
+
 Steps to Retrieve Project Code
 1)  create an empty repositiry in code commit
 2)  add a policy to your IAM user to acces commit code
