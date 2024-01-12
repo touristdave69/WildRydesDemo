@@ -1,6 +1,8 @@
 # WildRydesDemo
 Will have Link available for a few Days (Link to the Application) https://master.deiph8ir0guor.amplifyapp.com/
 
+<img width="1912" alt="Screenshot 2024-01-12 at 6 32 48 PM" src="https://github.com/touristdave69/WildRydesDemo/assets/145601015/3f5c2f39-08c1-4a96-bccd-9d80a80043f0">
+
 https://github.com/touristdave69/WildRydesDemo/assets/145601015/e553ef57-a9c1-47ed-a9fe-a58f2dda5669
 
 # Technologies used
